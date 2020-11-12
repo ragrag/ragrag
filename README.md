@@ -1,4 +1,4 @@
-### Writing something every once in a while  
+### Writing something up every once in a while on dev.to
 
 <a href="https://dev.to/ragrag">
   <p align="center">
