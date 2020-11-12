@@ -1,4 +1,5 @@
-[![Raggi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/ragrag)
+### Writing something every once in a whille  
+[![Raggi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =50x)](https://dev.to/ragrag)
 
 
 <!--
