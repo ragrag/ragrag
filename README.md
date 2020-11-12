@@ -1,6 +1,6 @@
-### Writing something every once in a whille  
+### Writing something every once in a while  
 <a href="https://dev.to/ragrag">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Raggi's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Raggi's DEV Profile" height="250" width="250">
 </a>
         
 
