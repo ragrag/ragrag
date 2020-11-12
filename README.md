@@ -1,7 +1,8 @@
 ### Writing something every once in a whille  
-![Raggi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =75x75)(https://dev.to/ragrag)
-
-
+<a href="https://dev.to/ragrag">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Raggi's DEV Profile" height="30" width="30">
+</a>
+        
 
 <!--
 **ragrag/ragrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
