@@ -8,9 +8,6 @@
 
 <h6>Find Me</h6>
 <div align="center">
-<a href="https://dev.to/ragrag" target="_blank">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/raggi-h/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -24,8 +21,8 @@
 <tr><td valign="top" width="10%"></td><td valign="top" width="80%">
 <h6>Technologies of Interest</h6>
 <div align="center">
-    <img src="ts.png" alt="TypeScript" width="52" />
-    <img src="node.png" alt="Node.Js" width="52" />
+    <img src="ts.png" alt="TypeScript" width="40" />
+    <img src="node.png" alt="Node.Js" width="40" style="margin-top:2px;" />
     <img src="react.png" alt="React" width="40" />
     <img src="postgres.png" alt="PostgresSQL" width="40" />
     <img src="mongo.png" alt="mongodb" width="40" />
