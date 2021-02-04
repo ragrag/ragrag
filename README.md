@@ -26,9 +26,9 @@
 <tr><td valign="top" width="10%"></td><td valign="top" width="80%">
 <h6>Technologies of Interest</h6>
 <div align="center">
-    <img src="ts.png" alt="TypeScript" width="40" />
-    <img src="node.png" alt="Node.Js" width="40" />
-    <img src="react.png" alt="React" width="40" />
-    <img src="postgres.png" alt="PostgresSQL" width="40" />
-    <img src="mongo.png" alt="mongodb" width="40" />
+    <img src="typescript-original.svg" alt="TypeScript" width="40" />
+    <img src="nodejs-original.svg" alt="Node.Js" width="40" />
+    <img src="react-original.svg" alt="React" width="40" />
+    <img src="postgresql-original.svg" alt="PostgresSQL" width="40" />
+    <img src="mongodb-original.svg" alt="mongodb" width="40" />
 </div></td><td valign="top" width="10%"></td></tr>
