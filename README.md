@@ -8,20 +8,17 @@
 - [Disjoint Set Union](https://dev.to/ragrag/disjoint-set-union-4393)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!---
 <h6>Find Me</h6>
 <div align="center">
 <a href="https://www.linkedin.com/in/raggi-h/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-<!-- BLOG-POST-LIST:START -->
 <a href="https://twitter.com/ragragg_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<!-- BLOG-POST-LIST:START -->
 </div>  
-
+-->
 
 <tr><td valign="top" width="10%"></td><td valign="top" width="80%">
 <h6>Technologies of Interest</h6>
