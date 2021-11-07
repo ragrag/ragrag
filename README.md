@@ -6,8 +6,6 @@
 - [Youtube GIF Maker Using Next.js, Node and RabbitMQ](https://dev.to/ragrag/getting-started-youtube-gif-maker-using-next-js-node-and-rabbitmq-1cl9)   
 - [Asynchronous Request-Response Pattern](https://dev.to/ragrag/asynchronous-request-response-pattern-2pbj)   
 - [Adding A Pub/Sub layer To Your Express Backend](https://dev.to/ragrag/adding-a-pub-sub-layer-to-your-express-backend-3p09)   
-- [REST API Maturity - Towards The Glory of REST](https://dev.to/ragrag/rest-api-maturity-towards-the-glory-of-rest-5cm3)   
-- [Disjoint Set Union](https://dev.to/ragrag/disjoint-set-union-4393)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
@@ -22,6 +20,7 @@
 </div>  
 -->
 
+<!---
 <tr><td valign="top" width="10%"></td><td valign="top" width="80%">
 <h6>Technologies of Interest</h6>
 <div align="center">
@@ -31,3 +30,4 @@
     <img src="postgresql-original.svg" alt="PostgresSQL" width="40" />
     <img src="mongodb-original.svg" alt="mongodb" width="40" />
 </div></td><td valign="top" width="10%"></td></tr>
+-->
