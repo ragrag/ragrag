@@ -3,9 +3,11 @@
 <h5>Recent Articles  <img height="22" width="22" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">  <img/> </h5>
 
 <!-- BLOG-POST-LIST:START -->
+<!---
 - [Youtube GIF Maker Using Next.js, Node and RabbitMQ](https://dev.to/ragrag/getting-started-youtube-gif-maker-using-next-js-node-and-rabbitmq-1cl9)   
 - [Asynchronous Request-Response Pattern](https://dev.to/ragrag/asynchronous-request-response-pattern-2pbj)   
 - [Adding A Pub/Sub layer To Your Express Backend](https://dev.to/ragrag/adding-a-pub-sub-layer-to-your-express-backend-3p09)   
+-->
 <!-- BLOG-POST-LIST:END -->
 
 <!---
