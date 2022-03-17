@@ -1,4 +1,4 @@
-<h5>Interested in working on & learning about large scale systems</h5>
+<h5>Interested in working on & learning about the intricacies of scalable distributed systems</h5>
 <h5>Sometimes writing stuff on <a href="https://dev.to/ragrag"><b>my Dev.to</b></a> </h5>
 <!-- <h5>Recent Articles  <img height="22" width="22" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">  <img/> </h5>-->
 
