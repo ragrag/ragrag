@@ -1,7 +1,5 @@
 <h5>Interested in the intricacies of scalable systems</h5>
 
-<h5>https://ragrag.deno.dev/</h5>
-
 <!-- <h5>Sometimes writing stuff on <a href="https://dev.to/ragrag"><b>my Dev.to</b></a> </h5>-->
 <!-- <h5>Recent Articles  <img height="22" width="22" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">  <img/> </h5>-->
 
